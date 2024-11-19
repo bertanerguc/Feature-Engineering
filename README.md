@@ -1,7 +1,3 @@
-Here’s a well-structured and visually appealing `README.md` file for the **Diabetes Feature Engineering** project:
-
----
-
 # 🌟 Diabetes Feature Engineering
 
 This project involves building a machine learning model to predict whether a person has diabetes based on their medical data. The focus is on applying **feature engineering** techniques and preparing the dataset for modeling.
